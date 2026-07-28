@@ -1,2 +1,4 @@
 hello git
 im learning git now 
+helloo
+happy birthday
